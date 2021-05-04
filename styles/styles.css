@@ -1,3 +1,7 @@
 #hp-main-banner {
   background-image: url(../assets/header-bg.jpg)
  }
+
+h1 {
+  font-weight: 100  !important;
+}
